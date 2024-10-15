@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey, there! This is Tina here. ☺
 
 <!--
 **Sherine-Martina/Sherine-Martina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
