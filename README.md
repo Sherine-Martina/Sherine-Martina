@@ -9,10 +9,8 @@ Find me on 👇
 [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  height="30">](linkedin.com/in/sherine-martina-edward-426689215)
 
 
-# Programming Languages
+# Here's some of my technical skills:
 ---
-
-Here's some of my technical skills:
 ```
 
 Programming languages      : Python | C++ (basics) | C (basics)
