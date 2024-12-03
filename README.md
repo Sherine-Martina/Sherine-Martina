@@ -6,7 +6,7 @@ Currently, I'm looking for a full-time PhD position in Astrophysics.
 
 Find me on 👇
 <br>
-[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  height="30">](linkedin.com/in/sherine-martina-edward-426689215)
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  height="30">](www.linkedin.com/in/sherine-martina-edward-426689215)
 
 
 # Here's some of my technical skills:
