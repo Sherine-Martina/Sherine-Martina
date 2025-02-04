@@ -15,8 +15,8 @@ Find me on 👇
 
 Programming languages      : Python | C++ (basics) | C (basics)
 ML                         : Skicit learn (basics)
-Astrophysical code (used)  : PyQSOFit | PLUTOCode
-Astrophysical tools        : IRAF | Clea | SAOImageDS9 | Astrometrica | CIGALE | HEASOFT 
+Astrophysical code (used)  : PyQSOFit 
+Astrophysical tools        : IRAF | Clea | SAOImageDS9 | Astrometrica | CIGALE 
 OS                         : Windows | Linux | MacOS
 Scientific writing         : LaTeX | Overleaf
 Web development            : HTML (basics)
